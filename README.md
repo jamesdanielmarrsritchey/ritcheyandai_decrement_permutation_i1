@@ -1,0 +1,1 @@
+# ritcheyandai_decrement_permutation_i1
